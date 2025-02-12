@@ -36,7 +36,7 @@ I'm a passionate **Data Scientist/ Machine Learning Engineer & AI/ML Enthusiast*
 
 ## 📢 Let's Connect!
 📧 ankitbista1406@gmail.com  
-🌐 [LinkedIn]([https://www.linkedin.com/in/ankit-bista](https://www.linkedin.com/in/ankitbistaa/))  
-💻 [GitHub]([https://github.com/ankitbista](https://github.com/ankitbista483))  
+🌐 [LinkedIn]([https://www.linkedin.com/in/ankitbistaa/])  
+💻 [GitHub]([https://github.com/ankitbista483])  
 
 Let's collaborate on exciting AI/ML projects and build something impactful! 🚀
