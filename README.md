@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Ankit Bista
 
 ## 🚀 About Me
-I'm a passionate **Data Scientist/ Machine Learning Engineer & AI/ML Enthusiast** with a strong foundation in **Artificial Intelligence, Machine Learning, and Data Science**. I love solving real-world problems through data-driven insights and innovative AI solutions. Currently, I'm honing my skills to specialize in **quantitative finance and data science**.
+I'm a passionate **Data Scientist/ Machine Learning Engineer & AI/ML Enthusiast** with a strong foundation in **Artificial Intelligence, Machine Learning, and Data Science**. I love solving real-world problems through data-driven insights and innovative AI solutions. Currently, I'm honing my skills to specialize in **Machine learning and data science**.
 
 ## 🏆 Experience & Education
 - **Machine Learning Engineer** 💼
