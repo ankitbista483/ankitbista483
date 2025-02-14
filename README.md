@@ -8,7 +8,7 @@ I'm a passionate **Data Scientist/ Machine Learning Engineer & AI/ML Enthusiast*
 ## 🏆 Experience & Education
 - **Machine Learning Engineer** 💼
 - **AI & ML Ontario Graduate Certificate** 🎓
-- **Aspiring to pursue a Master's in Data Science in the future** 📚
+
 
 
 ## 🔥 Skills & Technologies
