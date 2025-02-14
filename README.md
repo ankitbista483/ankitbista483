@@ -22,7 +22,7 @@ I'm a passionate **Data Scientist/ Machine Learning Engineer & AI/ML Enthusiast*
 - **Natural Language Processing (NLP)** 🗣️
 - **Data Visualization (Matplotlib, Seaborn, Power BI, Tableau)** 📈
 - **Big Data & Cloud Computing (AWS, Google Cloud, Databricks)** ☁️
-- **Model Deployment (Flask, FastAPI, Streamlit)** 🚀
+- **Model Deployment (Flask, )** 🚀
 
 ### Other Skills:
 - **Data Structures & Algorithms (Currently Mastering)** 🔢
